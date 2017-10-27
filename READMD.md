@@ -1,0 +1,1 @@
+Duplicates https://github.com/erikkemperman/windows-stats-quirk.
