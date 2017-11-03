@@ -15,7 +15,10 @@ environment:
     - nodejs_version: "6.7"
     - nodejs_version: "6.8"
     - nodejs_version: "6.9"
-    - nodejs_version: "6.10"
+    - nodejs_version: "6.10.0"
+    - nodejs_version: "6.10.1"
+    - nodejs_version: "6.10.2"
+    - nodejs_version: "6.10.3"
     - nodejs_version: "6.11"
 
 # Install scripts. (runs after repo cloning)
